@@ -1,1 +1,3 @@
-# VOOGASalad
+# voogasalad
+
+Game Authoring Engine Project
